@@ -21,4 +21,15 @@ jobs:
             -project AIronFit.xcodeproj \
             -scheme AIronFit \
             -destination 'platform=iOS Simulator,name=iPhone 16,OS=latest' \
-            -enableCodeCoverage YES
+            -enableCodeCoverage YES \
+            -test-timeouts-enabled YES \
+            -maximum-test-execution-time-allowance 120
+        continue-on-error: false
+
+      - name: Upload test results
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: test-results
+          path: |
+            ~/Library/Developer/Xcode/DerivedData/**/Logs/Test/*.xcresult
