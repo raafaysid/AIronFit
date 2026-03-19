@@ -1,0 +1,24 @@
+name: AIronFit CI
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  test-ios:
+    name: Build & Test iOS App
+    runs-on: macos-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Build & Run Tests
+        run: |
+          xcodebuild test \
+            -project AIronFit.xcodeproj \
+            -scheme AIronFit \
+            -destination 'platform=iOS Simulator,name=iPhone 16,OS=latest' \
+            -enableCodeCoverage YES
