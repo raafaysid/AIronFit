@@ -1,0 +1,2649 @@
+[
+  {
+    "id": "1",
+    "name": "Lat Pulldown",
+    "bodyPart": "back",
+    "equipment": "cable",
+    "target": "Lats",
+    "secondaryMuscles": [
+      "biceps",
+      "rear delts"
+    ],
+    "instructions": [
+      "Sit at the lat pulldown machine and grip the bar slightly wider than shoulder width.",
+      "Pull the bar down to your upper chest while squeezing your lats.",
+      "Slowly return the bar to the starting position."
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Seated Cable Row",
+    "bodyPart": "back",
+    "equipment": "cable",
+    "target": "Upper Back",
+    "secondaryMuscles": [
+      "biceps",
+      "rear delts"
+    ],
+    "instructions": [
+      "Sit at the cable row machine with feet on the platform.",
+      "Pull the handle towards your lower chest while keeping your back straight.",
+      "Slowly return to the starting position."
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Cable Straight Arm Pulldown",
+    "bodyPart": "back",
+    "equipment": "cable",
+    "target": "Lats",
+    "secondaryMuscles": [
+      "triceps",
+      "core"
+    ],
+    "instructions": [
+      "Stand at a cable machine with a straight bar attachment set high.",
+      "With arms slightly bent, pull the bar down to your thighs.",
+      "Slowly return to starting position."
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Cable Face Pull",
+    "bodyPart": "back",
+    "equipment": "cable",
+    "target": "Rear Delts",
+    "secondaryMuscles": [
+      "upper traps",
+      "rotator cuff"
+    ],
+    "instructions": [
+      "Set a rope attachment at upper chest height on a cable machine.",
+      "Pull the rope towards your face, separating the ends as you pull.",
+      "Slowly return to starting position."
+    ]
+  },
+  {
+    "id": "5",
+    "name": "Machine Lat Pulldown",
+    "bodyPart": "back",
+    "equipment": "leverage machine",
+    "target": "Lats",
+    "secondaryMuscles": [
+      "biceps",
+      "rear delts"
+    ],
+    "instructions": [
+      "Sit at the machine and grip the handles.",
+      "Pull the handles down toward your shoulders while squeezing your lats.",
+      "Slowly return to starting position."
+    ]
+  },
+  {
+    "id": "6",
+    "name": "Machine Seated Row",
+    "bodyPart": "back",
+    "equipment": "leverage machine",
+    "target": "Upper Back",
+    "secondaryMuscles": [
+      "biceps",
+      "rear delts"
+    ],
+    "instructions": [
+      "Sit at the machine and grip the handles.",
+      "Pull the handles towards your chest while squeezing your shoulder blades.",
+      "Slowly return to starting position."
+    ]
+  },
+  {
+    "id": "7",
+    "name": "Machine Back Extension",
+    "bodyPart": "back",
+    "equipment": "leverage machine",
+    "target": "Lower Back",
+    "secondaryMuscles": [
+      "glutes",
+      "hamstrings"
+    ],
+    "instructions": [
+      "Sit in the machine with your back against the pad.",
+      "Push back against the pad extending your spine.",
+      "Slowly return to starting position."
+    ]
+  },
+  {
+    "id": "8",
+    "name": "Dumbbell Single Arm Row",
+    "bodyPart": "back",
+    "equipment": "dumbbell",
+    "target": "Lats",
+    "secondaryMuscles": [
+      "biceps",
+      "rear delts"
+    ],
+    "instructions": [
+      "Place one knee and hand on a bench for support.",
+      "Row the dumbbell up towards your hip while keeping your back flat.",
+      "Slowly lower to starting position."
+    ]
+  },
+  {
+    "id": "9",
+    "name": "Dumbbell Bent Over Row",
+    "bodyPart": "back",
+    "equipment": "dumbbell",
+    "target": "Upper Back",
+    "secondaryMuscles": [
+      "biceps",
+      "lats"
+    ],
+    "instructions": [
+      "Hinge at the hips with a flat back holding dumbbells.",
+      "Row both dumbbells up towards your hips.",
+      "Slowly lower to starting position."
+    ]
+  },
+  {
+    "id": "10",
+    "name": "Smith Machine Bent Over Row",
+    "bodyPart": "back",
+    "equipment": "smith machine",
+    "target": "Upper Back",
+    "secondaryMuscles": [
+      "biceps",
+      "lats"
+    ],
+    "instructions": [
+      "Set the bar at mid shin height on the smith machine.",
+      "Hinge at the hips and row the bar to your lower chest.",
+      "Slowly lower to starting position."
+    ]
+  },
+  {
+    "id": "11",
+    "name": "Barbell Bent Over Row",
+    "bodyPart": "back",
+    "equipment": "barbell",
+    "target": "Upper Back",
+    "secondaryMuscles": [
+      "biceps",
+      "lats",
+      "lower back"
+    ],
+    "instructions": [
+      "Hinge at the hips holding a barbell with overhand grip.",
+      "Row the bar to your lower chest keeping your back flat.",
+      "Slowly lower to starting position."
+    ]
+  },
+  {
+    "id": "12",
+    "name": "Pull Up",
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "target": "Lats",
+    "secondaryMuscles": [
+      "biceps",
+      "rear delts"
+    ],
+    "instructions": [
+      "Hang from a pull up bar with an overhand grip.",
+      "Pull yourself up until your chin is above the bar.",
+      "Slowly lower to starting position."
+    ]
+  },
+  {
+    "id": "13",
+    "name": "Chin Up",
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "target": "Lats",
+    "secondaryMuscles": [
+      "biceps"
+    ],
+    "instructions": [
+      "Hang from a pull up bar with an underhand grip.",
+      "Pull yourself up until your chin is above the bar.",
+      "Slowly lower to starting position."
+    ]
+  },
+  {
+    "id": "14",
+    "name": "Barbell Bench Press",
+    "bodyPart": "chest",
+    "equipment": "barbell",
+    "target": "Pectoralis Major",
+    "secondaryMuscles": [
+      "triceps",
+      "front delts"
+    ],
+    "instructions": [
+      "Lie on a flat bench and grip the bar slightly wider than shoulder width.",
+      "Lower the bar to your mid chest.",
+      "Press the bar back up to starting position."
+    ]
+  },
+  {
+    "id": "15",
+    "name": "Incline Barbell Bench Press",
+    "bodyPart": "chest",
+    "equipment": "barbell",
+    "target": "Upper Pectoralis",
+    "secondaryMuscles": [
+      "triceps",
+      "front delts"
+    ],
+    "instructions": [
+      "Lie on an incline bench set to 30-45 degrees.",
+      "Lower the bar to your upper chest.",
+      "Press the bar back up to starting position."
+    ]
+  },
+  {
+    "id": "16",
+    "name": "Dumbbell Bench Press",
+    "bodyPart": "chest",
+    "equipment": "dumbbell",
+    "target": "Pectoralis Major",
+    "secondaryMuscles": [
+      "triceps",
+      "front delts"
+    ],
+    "instructions": [
+      "Lie on a flat bench holding dumbbells at chest level.",
+      "Press the dumbbells up until your arms are fully extended.",
+      "Slowly lower to starting position."
+    ]
+  },
+  {
+    "id": "17",
+    "name": "Incline Dumbbell Press",
+    "bodyPart": "chest",
+    "equipment": "dumbbell",
+    "target": "Upper Pectoralis",
+    "secondaryMuscles": [
+      "triceps",
+      "front delts"
+    ],
+    "instructions": [
+      "Lie on an incline bench holding dumbbells at chest level.",
+      "Press the dumbbells up until your arms are fully extended.",
+      "Slowly lower to starting position."
+    ]
+  },
+  {
+    "id": "18",
+    "name": "Dumbbell Fly",
+    "bodyPart": "chest",
+    "equipment": "dumbbell",
+    "target": "Pectoralis Major",
+    "secondaryMuscles": [
+      "front delts"
+    ],
+    "instructions": [
+      "Lie on a flat bench holding dumbbells above your chest.",
+      "Lower the dumbbells out to the sides in an arc motion.",
+      "Bring them back together at the top."
+    ]
+  },
+  {
+    "id": "19",
+    "name": "Incline Dumbbell Fly",
+    "bodyPart": "chest",
+    "equipment": "dumbbell",
+    "target": "Upper Pectoralis",
+    "secondaryMuscles": [
+      "front delts"
+    ],
+    "instructions": [
+      "Lie on an incline bench holding dumbbells above your chest.",
+      "Lower the dumbbells out to the sides in an arc motion.",
+      "Bring them back together at the top."
+    ]
+  },
+  {
+    "id": "20",
+    "name": "Cable Chest Fly",
+    "bodyPart": "chest",
+    "equipment": "cable",
+    "target": "Pectoralis Major",
+    "secondaryMuscles": [
+      "front delts"
+    ],
+    "instructions": [
+      "Set cables at shoulder height on both sides.",
+      "Stand in the middle and bring both handles together in front of your chest.",
+      "Slowly return to starting position."
+    ]
+  },
+  {
+    "id": "21",
+    "name": "Low Cable Chest Fly",
+    "bodyPart": "chest",
+    "equipment": "cable",
+    "target": "Upper Pectoralis",
+    "secondaryMuscles": [
+      "front delts"
+    ],
+    "instructions": [
+      "Set cables at the lowest position on both sides.",
+      "Stand in the middle and bring both handles up and together in front of your chest.",
+      "Slowly return to starting position."
+    ]
+  },
+  {
+    "id": "22",
+    "name": "Machine Chest Press",
+    "bodyPart": "chest",
+    "equipment": "leverage machine",
+    "target": "Pectoralis Major",
+    "secondaryMuscles": [
+      "triceps",
+      "front delts"
+    ],
+    "instructions": [
+      "Sit in the chest press machine and grip the handles.",
+      "Press the handles forward until your arms are extended.",
+      "Slowly return to starting position."
+    ]
+  },
+  {
+    "id": "23",
+    "name": "Machine Incline Chest Press",
+    "bodyPart": "chest",
+    "equipment": "leverage machine",
+    "target": "Upper Pectoralis",
+    "secondaryMuscles": [
+      "triceps",
+      "front delts"
+    ],
+    "instructions": [
+      "Sit in the incline chest press machine.",
+      "Press the handles forward and upward until your arms are extended.",
+      "Slowly return to starting position."
+    ]
+  },
+  {
+    "id": "24",
+    "name": "Pec Deck Machine",
+    "bodyPart": "chest",
+    "equipment": "leverage machine",
+    "target": "Pectoralis Major",
+    "secondaryMuscles": [
+      "front delts"
+    ],
+    "instructions": [
+      "Sit in the pec deck machine with forearms on the pads.",
+      "Bring the pads together in front of your chest.",
+      "Slowly return to starting position."
+    ]
+  },
+  {
+    "id": "25",
+    "name": "Smith Machine Bench Press",
+    "bodyPart": "chest",
+    "equipment": "smith machine",
+    "target": "Pectoralis Major",
+    "secondaryMuscles": [
+      "triceps",
+      "front delts"
+    ],
+    "instructions": [
+      "Lie on a bench inside the smith machine.",
+      "Lower the bar to your mid chest.",
+      "Press the bar back up to starting position."
+    ]
+  },
+  {
+    "id": "26",
+    "name": "Smith Machine Incline Press",
+    "bodyPart": "chest",
+    "equipment": "smith machine",
+    "target": "Upper Pectoralis",
+    "secondaryMuscles": [
+      "triceps",
+      "front delts"
+    ],
+    "instructions": [
+      "Set an incline bench inside the smith machine.",
+      "Lower the bar to your upper chest.",
+      "Press the bar back up to starting position."
+    ]
+  },
+  {
+    "id": "27",
+    "name": "Push Up",
+    "bodyPart": "chest",
+    "equipment": "body weight",
+    "target": "Pectoralis Major",
+    "secondaryMuscles": [
+      "triceps",
+      "front delts",
+      "core"
+    ],
+    "instructions": [
+      "Start in a plank position with hands slightly wider than shoulder width.",
+      "Lower your chest to the floor.",
+      "Push back up to starting position."
+    ]
+  },
+  {
+    "id": "28",
+    "name": "Dumbbell Shoulder Press",
+    "bodyPart": "shoulders",
+    "equipment": "dumbbell",
+    "target": "Anterior Deltoid",
+    "secondaryMuscles": [
+      "triceps",
+      "upper traps"
+    ],
+    "instructions": [
+      "Sit on a bench holding dumbbells at shoulder height.",
+      "Press the dumbbells overhead until arms are fully extended.",
+      "Slowly lower to starting position."
+    ]
+  },
+  {
+    "id": "29",
+    "name": "Dumbbell Lateral Raise",
+    "bodyPart": "shoulders",
+    "equipment": "dumbbell",
+    "target": "Lateral Deltoid",
+    "secondaryMuscles": [
+      "upper traps"
+    ],
+    "instructions": [
+      "Stand holding dumbbells at your sides.",
+      "Raise the dumbbells out to the sides until shoulder height.",
+      "Slowly lower to starting position."
+    ]
+  },
+  {
+    "id": "30",
+    "name": "Dumbbell Front Raise",
+    "bodyPart": "shoulders",
+    "equipment": "dumbbell",
+    "target": "Anterior Deltoid",
+    "secondaryMuscles": [
+      "upper traps"
+    ],
+    "instructions": [
+      "Stand holding dumbbells in front of your thighs.",
+      "Raise the dumbbells forward to shoulder height.",
+      "Slowly lower to starting position."
+    ]
+  },
+  {
+    "id": "31",
+    "name": "Dumbbell Rear Delt Fly",
+    "bodyPart": "shoulders",
+    "equipment": "dumbbell",
+    "target": "Posterior Deltoid",
+    "secondaryMuscles": [
+      "upper traps",
+      "rhomboids"
+    ],
+    "instructions": [
+      "Hinge forward at the hips holding dumbbells.",
+      "Raise the dumbbells out to the sides.",
+      "Slowly lower to starting position."
+    ]
+  },
+  {
+    "id": "32",
+    "name": "Cable Lateral Raise",
+    "bodyPart": "shoulders",
+    "equipment": "cable",
+    "target": "Lateral Deltoid",
+    "secondaryMuscles": [
+      "upper traps"
+    ],
+    "instructions": [
+      "Stand sideways to a low cable machine.",
+      "Raise the handle out to the side until shoulder height.",
+      "Slowly lower to starting position."
+    ]
+  },
+  {
+    "id": "33",
+    "name": "Cable Rear Delt Fly",
+    "bodyPart": "shoulders",
+    "equipment": "cable",
+    "target": "Posterior Deltoid",
+    "secondaryMuscles": [
+      "rhomboids",
+      "upper traps"
+    ],
+    "instructions": [
+      "Set cables at shoulder height on both sides.",
+      "Cross your arms and pull each handle to the opposite side.",
+      "Slowly return to starting position."
+    ]
+  },
+  {
+    "id": "34",
+    "name": "Machine Shoulder Press",
+    "bodyPart": "shoulders",
+    "equipment": "leverage machine",
+    "target": "Anterior Deltoid",
+    "secondaryMuscles": [
+      "triceps",
+      "upper traps"
+    ],
+    "instructions": [
+      "Sit in the shoulder press machine and grip the handles.",
+      "Press the handles overhead until arms are extended.",
+      "Slowly lower to starting position."
+    ]
+  },
+  {
+    "id": "35",
+    "name": "Machine Lateral Raise",
+    "bodyPart": "shoulders",
+    "equipment": "leverage machine",
+    "target": "Lateral Deltoid",
+    "secondaryMuscles": [
+      "upper traps"
+    ],
+    "instructions": [
+      "Sit in the lateral raise machine.",
+      "Raise your arms out to the sides until shoulder height.",
+      "Slowly lower to starting position."
+    ]
+  },
+  {
+    "id": "36",
+    "name": "Machine Rear Delt Fly",
+    "bodyPart": "shoulders",
+    "equipment": "leverage machine",
+    "target": "Posterior Deltoid",
+    "secondaryMuscles": [
+      "rhomboids",
+      "upper traps"
+    ],
+    "instructions": [
+      "Sit facing the pec deck machine reversed.",
+      "Pull the handles back and out to the sides.",
+      "Slowly return to starting position."
+    ]
+  },
+  {
+    "id": "37",
+    "name": "Smith Machine Shoulder Press",
+    "bodyPart": "shoulders",
+    "equipment": "smith machine",
+    "target": "Anterior Deltoid",
+    "secondaryMuscles": [
+      "triceps",
+      "upper traps"
+    ],
+    "instructions": [
+      "Sit on a bench inside the smith machine.",
+      "Press the bar overhead from shoulder height.",
+      "Slowly lower to starting position."
+    ]
+  },
+  {
+    "id": "38",
+    "name": "Barbell Overhead Press",
+    "bodyPart": "shoulders",
+    "equipment": "barbell",
+    "target": "Anterior Deltoid",
+    "secondaryMuscles": [
+      "triceps",
+      "upper traps",
+      "core"
+    ],
+    "instructions": [
+      "Stand holding a barbell at shoulder height.",
+      "Press the bar overhead until arms are fully extended.",
+      "Slowly lower to starting position."
+    ]
+  },
+  {
+    "id": "39",
+    "name": "Dumbbell Bicep Curl",
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "target": "Biceps Long Head",
+    "secondaryMuscles": [
+      "brachialis",
+      "brachioradialis"
+    ],
+    "instructions": [
+      "Stand holding dumbbells at your sides.",
+      "Curl the dumbbells up to shoulder height.",
+      "Slowly lower to starting position."
+    ]
+  },
+  {
+    "id": "40",
+    "name": "Dumbbell Hammer Curl",
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "target": "Brachialis",
+    "secondaryMuscles": [
+      "biceps",
+      "brachioradialis"
+    ],
+    "instructions": [
+      "Stand holding dumbbells with a neutral grip.",
+      "Curl the dumbbells up to shoulder height keeping the neutral grip.",
+      "Slowly lower to starting position."
+    ]
+  },
+  {
+    "id": "41",
+    "name": "Dumbbell Concentration Curl",
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "target": "Biceps Short Head",
+    "secondaryMuscles": [
+      "brachialis"
+    ],
+    "instructions": [
+      "Sit on a bench and brace your elbow against your inner thigh.",
+      "Curl the dumbbell up to your shoulder.",
+      "Slowly lower to starting position."
+    ]
+  },
+  {
+    "id": "42",
+    "name": "Dumbbell Incline Curl",
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "target": "Biceps Long Head",
+    "secondaryMuscles": [
+      "brachialis"
+    ],
+    "instructions": [
+      "Lie back on an incline bench holding dumbbells.",
+      "Curl the dumbbells up to shoulder height.",
+      "Slowly lower to starting position."
+    ]
+  },
+  {
+    "id": "43",
+    "name": "Cable Bicep Curl",
+    "bodyPart": "upper arms",
+    "equipment": "cable",
+    "target": "Biceps",
+    "secondaryMuscles": [
+      "brachialis"
+    ],
+    "instructions": [
+      "Stand at a low cable machine with a straight bar attachment.",
+      "Curl the bar up to shoulder height.",
+      "Slowly lower to starting position."
+    ]
+  },
+  {
+    "id": "44",
+    "name": "Cable Hammer Curl",
+    "bodyPart": "upper arms",
+    "equipment": "cable",
+    "target": "Brachialis",
+    "secondaryMuscles": [
+      "biceps",
+      "brachioradialis"
+    ],
+    "instructions": [
+      "Stand at a low cable machine with a rope attachment.",
+      "Curl the rope up keeping a neutral grip.",
+      "Slowly lower to starting position."
+    ]
+  },
+  {
+    "id": "45",
+    "name": "Barbell Bicep Curl",
+    "bodyPart": "upper arms",
+    "equipment": "barbell",
+    "target": "Biceps",
+    "secondaryMuscles": [
+      "brachialis",
+      "brachioradialis"
+    ],
+    "instructions": [
+      "Stand holding a barbell with an underhand grip.",
+      "Curl the bar up to shoulder height.",
+      "Slowly lower to starting position."
+    ]
+  },
+  {
+    "id": "46",
+    "name": "Machine Preacher Curl",
+    "bodyPart": "upper arms",
+    "equipment": "leverage machine",
+    "target": "Biceps Short Head",
+    "secondaryMuscles": [
+      "brachialis"
+    ],
+    "instructions": [
+      "Sit at the preacher curl machine with arms on the pad.",
+      "Curl the handles up to shoulder height.",
+      "Slowly lower to starting position."
+    ]
+  },
+  {
+    "id": "47",
+    "name": "Machine Bicep Curl",
+    "bodyPart": "upper arms",
+    "equipment": "leverage machine",
+    "target": "Biceps",
+    "secondaryMuscles": [
+      "brachialis"
+    ],
+    "instructions": [
+      "Sit at the bicep curl machine and grip the handles.",
+      "Curl the handles up to shoulder height.",
+      "Slowly lower to starting position."
+    ]
+  },
+  {
+    "id": "48",
+    "name": "Dumbbell Tricep Overhead Extension",
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "target": "Triceps Long Head",
+    "secondaryMuscles": [],
+    "instructions": [
+      "Sit on a bench holding a dumbbell overhead with both hands.",
+      "Lower the dumbbell behind your head by bending at the elbows.",
+      "Press back up to starting position."
+    ]
+  },
+  {
+    "id": "49",
+    "name": "Dumbbell Tricep Kickback",
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "target": "Triceps Lateral Head",
+    "secondaryMuscles": [],
+    "instructions": [
+      "Hinge forward holding a dumbbell with elbow bent at 90 degrees.",
+      "Extend your arm back until fully straight.",
+      "Slowly return to starting position."
+    ]
+  },
+  {
+    "id": "50",
+    "name": "Cable Tricep Pushdown",
+    "bodyPart": "upper arms",
+    "equipment": "cable",
+    "target": "Triceps Lateral Head",
+    "secondaryMuscles": [
+      "triceps medial head"
+    ],
+    "instructions": [
+      "Stand at a high cable machine with a bar or rope attachment.",
+      "Push the attachment down until arms are fully extended.",
+      "Slowly return to starting position."
+    ]
+  },
+  {
+    "id": "51",
+    "name": "Cable Overhead Tricep Extension",
+    "bodyPart": "upper arms",
+    "equipment": "cable",
+    "target": "Triceps Long Head",
+    "secondaryMuscles": [],
+    "instructions": [
+      "Set a rope attachment at the bottom of a cable machine.",
+      "Face away and extend arms overhead.",
+      "Slowly lower and return to starting position."
+    ]
+  },
+  {
+    "id": "52",
+    "name": "Machine Tricep Dip",
+    "bodyPart": "upper arms",
+    "equipment": "leverage machine",
+    "target": "Triceps",
+    "secondaryMuscles": [
+      "chest",
+      "front delts"
+    ],
+    "instructions": [
+      "Sit in the tricep dip machine and grip the handles.",
+      "Press down until arms are fully extended.",
+      "Slowly return to starting position."
+    ]
+  },
+  {
+    "id": "53",
+    "name": "Machine Tricep Extension",
+    "bodyPart": "upper arms",
+    "equipment": "leverage machine",
+    "target": "Triceps",
+    "secondaryMuscles": [],
+    "instructions": [
+      "Sit at the tricep extension machine.",
+      "Push the pad down until arms are fully extended.",
+      "Slowly return to starting position."
+    ]
+  },
+  {
+    "id": "54",
+    "name": "Smith Machine Close Grip Press",
+    "bodyPart": "upper arms",
+    "equipment": "smith machine",
+    "target": "Triceps Medial Head",
+    "secondaryMuscles": [
+      "chest",
+      "front delts"
+    ],
+    "instructions": [
+      "Lie on a bench inside the smith machine with a close grip.",
+      "Lower the bar to your lower chest.",
+      "Press back up focusing on your triceps."
+    ]
+  },
+  {
+    "id": "55",
+    "name": "Barbell Skull Crusher",
+    "bodyPart": "upper arms",
+    "equipment": "barbell",
+    "target": "Triceps Long Head",
+    "secondaryMuscles": [],
+    "instructions": [
+      "Lie on a bench holding a barbell above your chest.",
+      "Lower the bar toward your forehead by bending at the elbows.",
+      "Extend back to starting position."
+    ]
+  },
+  {
+    "id": "56",
+    "name": "Tricep Dip",
+    "bodyPart": "upper arms",
+    "equipment": "body weight",
+    "target": "Triceps",
+    "secondaryMuscles": [
+      "chest",
+      "front delts"
+    ],
+    "instructions": [
+      "Grip parallel bars and support your body weight.",
+      "Lower yourself by bending at the elbows.",
+      "Push back up to starting position."
+    ]
+  },
+  {
+    "id": "57",
+    "name": "Machine Leg Press",
+    "bodyPart": "upper legs",
+    "equipment": "leverage machine",
+    "target": "Quadriceps",
+    "secondaryMuscles": [
+      "glutes",
+      "hamstrings"
+    ],
+    "instructions": [
+      "Sit in the leg press machine with feet shoulder width apart.",
+      "Push the platform away until legs are nearly extended.",
+      "Slowly lower back to starting position."
+    ]
+  },
+  {
+    "id": "58",
+    "name": "Machine Leg Extension",
+    "bodyPart": "upper legs",
+    "equipment": "leverage machine",
+    "target": "Quadriceps",
+    "secondaryMuscles": [],
+    "instructions": [
+      "Sit in the leg extension machine with the pad on your shins.",
+      "Extend your legs until fully straight.",
+      "Slowly lower to starting position."
+    ]
+  },
+  {
+    "id": "59",
+    "name": "Machine Leg Curl",
+    "bodyPart": "upper legs",
+    "equipment": "leverage machine",
+    "target": "Hamstrings",
+    "secondaryMuscles": [
+      "glutes"
+    ],
+    "instructions": [
+      "Lie face down on the leg curl machine with the pad on your calves.",
+      "Curl your legs up towards your glutes.",
+      "Slowly lower to starting position."
+    ]
+  },
+  {
+    "id": "60",
+    "name": "Machine Seated Leg Curl",
+    "bodyPart": "upper legs",
+    "equipment": "leverage machine",
+    "target": "Hamstrings",
+    "secondaryMuscles": [],
+    "instructions": [
+      "Sit in the seated leg curl machine with the pad on your calves.",
+      "Curl your legs down under the seat.",
+      "Slowly return to starting position."
+    ]
+  },
+  {
+    "id": "61",
+    "name": "Machine Hip Abductor",
+    "bodyPart": "upper legs",
+    "equipment": "leverage machine",
+    "target": "Hip Abductors",
+    "secondaryMuscles": [
+      "glutes"
+    ],
+    "instructions": [
+      "Sit in the hip abductor machine with pads on the outside of your knees.",
+      "Push your legs outward against the pads.",
+      "Slowly return to starting position."
+    ]
+  },
+  {
+    "id": "62",
+    "name": "Machine Hip Adductor",
+    "bodyPart": "upper legs",
+    "equipment": "leverage machine",
+    "target": "Hip Adductors",
+    "secondaryMuscles": [],
+    "instructions": [
+      "Sit in the hip adductor machine with pads on the inside of your knees.",
+      "Squeeze your legs together against the pads.",
+      "Slowly return to starting position."
+    ]
+  },
+  {
+    "id": "63",
+    "name": "Machine Glute Kickback",
+    "bodyPart": "upper legs",
+    "equipment": "leverage machine",
+    "target": "Glutes",
+    "secondaryMuscles": [
+      "hamstrings"
+    ],
+    "instructions": [
+      "Stand at the glute kickback machine and place one foot on the pad.",
+      "Kick your leg back and up squeezing your glute.",
+      "Slowly return to starting position."
+    ]
+  },
+  {
+    "id": "64",
+    "name": "Barbell Squat",
+    "bodyPart": "upper legs",
+    "equipment": "barbell",
+    "target": "Quadriceps",
+    "secondaryMuscles": [
+      "glutes",
+      "hamstrings",
+      "core"
+    ],
+    "instructions": [
+      "Place the barbell on your upper traps.",
+      "Squat down until thighs are parallel to the floor.",
+      "Drive back up to starting position."
+    ]
+  },
+  {
+    "id": "65",
+    "name": "Smith Machine Squat",
+    "bodyPart": "upper legs",
+    "equipment": "smith machine",
+    "target": "Quadriceps",
+    "secondaryMuscles": [
+      "glutes",
+      "hamstrings"
+    ],
+    "instructions": [
+      "Place the smith machine bar on your upper traps.",
+      "Squat down until thighs are parallel to the floor.",
+      "Drive back up to starting position."
+    ]
+  },
+  {
+    "id": "66",
+    "name": "Smith Machine Romanian Deadlift",
+    "bodyPart": "upper legs",
+    "equipment": "smith machine",
+    "target": "Hamstrings",
+    "secondaryMuscles": [
+      "glutes",
+      "lower back"
+    ],
+    "instructions": [
+      "Stand holding the smith machine bar at hip height.",
+      "Hinge at the hips lowering the bar along your legs.",
+      "Drive your hips forward to return to starting position."
+    ]
+  },
+  {
+    "id": "67",
+    "name": "Dumbbell Lunge",
+    "bodyPart": "upper legs",
+    "equipment": "dumbbell",
+    "target": "Quadriceps",
+    "secondaryMuscles": [
+      "glutes",
+      "hamstrings"
+    ],
+    "instructions": [
+      "Stand holding dumbbells at your sides.",
+      "Step forward and lower your back knee toward the floor.",
+      "Push back up to starting position and repeat on other side."
+    ]
+  },
+  {
+    "id": "68",
+    "name": "Dumbbell Romanian Deadlift",
+    "bodyPart": "upper legs",
+    "equipment": "dumbbell",
+    "target": "Hamstrings",
+    "secondaryMuscles": [
+      "glutes",
+      "lower back"
+    ],
+    "instructions": [
+      "Stand holding dumbbells in front of your thighs.",
+      "Hinge at the hips lowering the dumbbells along your legs.",
+      "Drive hips forward to return to starting position."
+    ]
+  },
+  {
+    "id": "69",
+    "name": "Machine Calf Raise",
+    "bodyPart": "lower legs",
+    "equipment": "leverage machine",
+    "target": "Gastrocnemius",
+    "secondaryMuscles": [
+      "soleus"
+    ],
+    "instructions": [
+      "Sit or stand in the calf raise machine with pads on your knees.",
+      "Push up onto your toes as high as possible.",
+      "Slowly lower back to starting position."
+    ]
+  },
+  {
+    "id": "70",
+    "name": "Standing Calf Raise",
+    "bodyPart": "lower legs",
+    "equipment": "leverage machine",
+    "target": "Gastrocnemius",
+    "secondaryMuscles": [
+      "soleus"
+    ],
+    "instructions": [
+      "Stand on the edge of a platform with heels hanging off.",
+      "Push up onto your toes as high as possible.",
+      "Slowly lower back to starting position."
+    ]
+  },
+  {
+    "id": "71",
+    "name": "Dumbbell Calf Raise",
+    "bodyPart": "lower legs",
+    "equipment": "dumbbell",
+    "target": "Gastrocnemius",
+    "secondaryMuscles": [
+      "soleus"
+    ],
+    "instructions": [
+      "Stand holding dumbbells at your sides.",
+      "Push up onto your toes as high as possible.",
+      "Slowly lower back to starting position."
+    ]
+  },
+  {
+    "id": "72",
+    "name": "Seated Calf Raise",
+    "bodyPart": "lower legs",
+    "equipment": "leverage machine",
+    "target": "Soleus",
+    "secondaryMuscles": [
+      "gastrocnemius"
+    ],
+    "instructions": [
+      "Sit in the seated calf raise machine with pads on your knees.",
+      "Push up onto your toes as high as possible.",
+      "Slowly lower back to starting position."
+    ]
+  },
+  {
+    "id": "73",
+    "name": "Cable Crunch",
+    "bodyPart": "waist",
+    "equipment": "cable",
+    "target": "Rectus Abdominis",
+    "secondaryMuscles": [
+      "obliques"
+    ],
+    "instructions": [
+      "Kneel in front of a high cable machine holding a rope attachment.",
+      "Crunch down bringing your elbows toward your knees.",
+      "Slowly return to starting position."
+    ]
+  },
+  {
+    "id": "74",
+    "name": "Machine Ab Crunch",
+    "bodyPart": "waist",
+    "equipment": "leverage machine",
+    "target": "Rectus Abdominis",
+    "secondaryMuscles": [
+      "obliques"
+    ],
+    "instructions": [
+      "Sit in the ab crunch machine and grip the handles.",
+      "Crunch forward bringing your chest toward your knees.",
+      "Slowly return to starting position."
+    ]
+  },
+  {
+    "id": "75",
+    "name": "Plank",
+    "bodyPart": "waist",
+    "equipment": "body weight",
+    "target": "Core",
+    "secondaryMuscles": [
+      "shoulders",
+      "glutes"
+    ],
+    "instructions": [
+      "Start in a push up position resting on your forearms.",
+      "Keep your body in a straight line from head to toe.",
+      "Hold for the desired duration."
+    ]
+  },
+  {
+    "id": "76",
+    "name": "Hanging Leg Raise",
+    "bodyPart": "waist",
+    "equipment": "body weight",
+    "target": "Lower Abs",
+    "secondaryMuscles": [
+      "hip flexors"
+    ],
+    "instructions": [
+      "Hang from a pull up bar with arms fully extended.",
+      "Raise your legs until they are parallel to the floor.",
+      "Slowly lower back to starting position."
+    ]
+  },
+  {
+    "id": "77",
+    "name": "Crunch",
+    "bodyPart": "waist",
+    "equipment": "body weight",
+    "target": "Rectus Abdominis",
+    "secondaryMuscles": [],
+    "instructions": [
+      "Lie on your back with knees bent and feet flat.",
+      "Curl your upper body toward your knees.",
+      "Slowly lower back to starting position."
+    ]
+  },
+  {
+    "id": "78",
+    "name": "Russian Twist",
+    "bodyPart": "waist",
+    "equipment": "body weight",
+    "target": "Obliques",
+    "secondaryMuscles": [
+      "rectus abdominis"
+    ],
+    "instructions": [
+      "Sit with knees bent and lean back slightly.",
+      "Rotate your torso from side to side.",
+      "Keep your core engaged throughout."
+    ]
+  },
+  {
+    "id": "79",
+    "name": "Dumbbell Wrist Curl",
+    "bodyPart": "lower arms",
+    "equipment": "dumbbell",
+    "target": "Forearms",
+    "secondaryMuscles": [],
+    "instructions": [
+      "Sit on a bench and rest your forearms on your thighs.",
+      "Curl your wrists upward holding the dumbbells.",
+      "Slowly lower back to starting position."
+    ]
+  },
+  {
+    "id": "80",
+    "name": "Dumbbell Reverse Wrist Curl",
+    "bodyPart": "lower arms",
+    "equipment": "dumbbell",
+    "target": "Forearms",
+    "secondaryMuscles": [],
+    "instructions": [
+      "Sit on a bench and rest your forearms on your thighs with palms facing down.",
+      "Curl your wrists upward.",
+      "Slowly lower back to starting position."
+    ]
+  },
+  {
+    "id": "81",
+    "name": "Cable Wrist Curl",
+    "bodyPart": "lower arms",
+    "equipment": "cable",
+    "target": "Forearms",
+    "secondaryMuscles": [],
+    "instructions": [
+      "Kneel at a low cable machine holding the bar with palms up.",
+      "Curl your wrists upward.",
+      "Slowly lower back to starting position."
+    ]
+  },
+  {
+    "id": "82",
+    "name": "Barbell Shrug",
+    "bodyPart": "back",
+    "equipment": "barbell",
+    "target": "Upper Traps",
+    "secondaryMuscles": [
+      "neck"
+    ],
+    "instructions": [
+      "Stand holding a barbell in front of your thighs.",
+      "Shrug your shoulders as high as possible.",
+      "Slowly lower back to starting position."
+    ]
+  },
+  {
+    "id": "83",
+    "name": "Dumbbell Shrug",
+    "bodyPart": "back",
+    "equipment": "dumbbell",
+    "target": "Upper Traps",
+    "secondaryMuscles": [
+      "neck"
+    ],
+    "instructions": [
+      "Stand holding dumbbells at your sides.",
+      "Shrug your shoulders as high as possible.",
+      "Slowly lower back to starting position."
+    ]
+  },
+  {
+    "id": "84",
+    "name": "Smith Machine Shrug",
+    "bodyPart": "back",
+    "equipment": "smith machine",
+    "target": "Upper Traps",
+    "secondaryMuscles": [
+      "neck"
+    ],
+    "instructions": [
+      "Stand inside the smith machine holding the bar.",
+      "Shrug your shoulders as high as possible.",
+      "Slowly lower back to starting position."
+    ]
+  },
+  {
+    "id": "85",
+    "name": "Machine Chest Supported Row",
+    "bodyPart": "back",
+    "equipment": "leverage machine",
+    "target": "Upper Back",
+    "secondaryMuscles": [
+      "biceps",
+      "rear delts"
+    ],
+    "instructions": [
+      "Lie face down on the chest supported row machine.",
+      "Pull the handles toward your chest squeezing your shoulder blades.",
+      "Slowly lower to starting position."
+    ]
+  },
+  {
+    "id": "86",
+    "name": "Cable Pull Through",
+    "bodyPart": "upper legs",
+    "equipment": "cable",
+    "target": "Glutes",
+    "secondaryMuscles": [
+      "hamstrings",
+      "lower back"
+    ],
+    "instructions": [
+      "Stand facing away from a low cable machine.",
+      "Hinge at the hips pulling the rope through your legs.",
+      "Drive your hips forward to standing position."
+    ]
+  },
+  {
+    "id": "87",
+    "name": "Smith Machine Hip Thrust",
+    "bodyPart": "upper legs",
+    "equipment": "smith machine",
+    "target": "Glutes",
+    "secondaryMuscles": [
+      "hamstrings"
+    ],
+    "instructions": [
+      "Sit on the floor with your upper back against a bench.",
+      "Place the smith machine bar across your hips.",
+      "Drive your hips upward squeezing your glutes at the top."
+    ]
+  },
+  {
+    "id": "88",
+    "name": "Machine Hip Thrust",
+    "bodyPart": "upper legs",
+    "equipment": "leverage machine",
+    "target": "Glutes",
+    "secondaryMuscles": [
+      "hamstrings"
+    ],
+    "instructions": [
+      "Sit in the hip thrust machine.",
+      "Drive your hips forward squeezing your glutes at the top.",
+      "Slowly lower back to starting position."
+    ]
+  },
+  {
+    "id": "89",
+    "name": "Dumbbell Step Up",
+    "bodyPart": "upper legs",
+    "equipment": "dumbbell",
+    "target": "Quadriceps",
+    "secondaryMuscles": [
+      "glutes",
+      "hamstrings"
+    ],
+    "instructions": [
+      "Hold dumbbells at your sides standing in front of a bench.",
+      "Step up onto the bench one foot at a time.",
+      "Step back down and repeat on the other side."
+    ]
+  },
+  {
+    "id": "90",
+    "name": "Barbell Hip Thrust",
+    "bodyPart": "upper legs",
+    "equipment": "barbell",
+    "target": "Glutes",
+    "secondaryMuscles": [
+      "hamstrings"
+    ],
+    "instructions": [
+      "Sit on the floor with your upper back against a bench.",
+      "Place a barbell across your hips.",
+      "Drive your hips upward squeezing your glutes at the top."
+    ]
+  },
+  {
+    "id": "91",
+    "name": "Hammer Strength Iso Lateral Wide Pulldown",
+    "bodyPart": "back",
+    "equipment": "leverage machine",
+    "target": "Lats",
+    "secondaryMuscles": [
+      "biceps",
+      "rear delts"
+    ],
+    "instructions": [
+      "Sit at the Hammer Strength iso lateral pulldown machine.",
+      "Grip the handles wide and pull down toward your shoulders one arm at a time.",
+      "Squeeze your lats at the bottom and slowly return to starting position."
+    ]
+  },
+  {
+    "id": "92",
+    "name": "Upperback Wide Grip Seated Row",
+    "bodyPart": "back",
+    "equipment": "cable",
+    "target": "Upper Back",
+    "secondaryMuscles": [
+      "rear delts",
+      "biceps"
+    ],
+    "instructions": [
+      "Sit at the seated row machine with a wide grip attachment.",
+      "Pull the bar toward your upper chest keeping elbows flared out.",
+      "Squeeze your upper back and slowly return to starting position."
+    ]
+  },
+  {
+    "id": "93",
+    "name": "Single Arm Cable Lat Pullover",
+    "bodyPart": "back",
+    "equipment": "cable",
+    "target": "Lats",
+    "secondaryMuscles": [
+      "triceps",
+      "core"
+    ],
+    "instructions": [
+      "Set a cable machine to the highest position with a single handle.",
+      "Stand sideways and pull the handle down in an arc toward your hip.",
+      "Squeeze your lat at the bottom and slowly return to starting position."
+    ]
+  },
+  {
+    "id": "94",
+    "name": "Cable Rear Delt Fly Single Arm",
+    "bodyPart": "shoulders",
+    "equipment": "cable",
+    "target": "Posterior Deltoid",
+    "secondaryMuscles": [
+      "rhomboids",
+      "upper traps"
+    ],
+    "instructions": [
+      "Set a cable to shoulder height and stand sideways to the machine.",
+      "Pull the handle across your body out to the side.",
+      "Squeeze your rear delt and slowly return to starting position."
+    ]
+  },
+  {
+    "id": "95",
+    "name": "Arsenal Strength Preacher Curl Machine",
+    "bodyPart": "upper arms",
+    "equipment": "leverage machine",
+    "target": "Biceps Short Head",
+    "secondaryMuscles": [
+      "brachialis"
+    ],
+    "instructions": [
+      "Sit at the Arsenal Strength preacher curl machine with arms on the pad.",
+      "Use a wide grip for better short head engagement.",
+      "Curl the handles up and slowly lower to starting position."
+    ]
+  },
+  {
+    "id": "96",
+    "name": "Cable Rope Hammer Curl",
+    "bodyPart": "upper arms",
+    "equipment": "cable",
+    "target": "Brachialis",
+    "secondaryMuscles": [
+      "biceps",
+      "brachioradialis"
+    ],
+    "instructions": [
+      "Attach a rope to a low cable machine.",
+      "Stand and curl the rope up keeping a neutral grip throughout.",
+      "Slowly lower to starting position."
+    ]
+  },
+  {
+    "id": "97",
+    "name": "Katana Tricep Extension",
+    "bodyPart": "upper arms",
+    "equipment": "cable",
+    "target": "Triceps Lateral Head",
+    "secondaryMuscles": [
+      "triceps long head"
+    ],
+    "instructions": [
+      "Attach a single handle to a high cable machine.",
+      "With your elbow tucked, extend your arm down and across your body in a diagonal motion.",
+      "Slowly return to starting position."
+    ]
+  },
+  {
+    "id": "98",
+    "name": "Arsenal Strength Chest Fly",
+    "bodyPart": "chest",
+    "equipment": "leverage machine",
+    "target": "Pectoralis Major",
+    "secondaryMuscles": [
+      "front delts"
+    ],
+    "instructions": [
+      "Sit in the Arsenal Strength chest fly machine.",
+      "Bring the handles together in front of your chest squeezing your pecs.",
+      "Slowly return to starting position."
+    ]
+  },
+  {
+    "id": "99",
+    "name": "V-Bar Pushdown",
+    "bodyPart": "upper arms",
+    "equipment": "cable",
+    "target": "Triceps Lateral Head",
+    "secondaryMuscles": [
+      "triceps medial head"
+    ],
+    "instructions": [
+      "Attach a V-bar to a high cable machine.",
+      "Stand and push the bar down until arms are fully extended.",
+      "Slowly return to starting position."
+    ]
+  },
+  {
+    "id": "100",
+    "name": "Hammer Strength Iso Lateral Bench Press",
+    "bodyPart": "chest",
+    "equipment": "leverage machine",
+    "target": "Pectoralis Major",
+    "secondaryMuscles": [
+      "triceps",
+      "front delts"
+    ],
+    "instructions": [
+      "Sit at the Hammer Strength iso lateral bench press machine.",
+      "Press one or both handles forward until arms are extended.",
+      "Slowly return to starting position."
+    ]
+  },
+  {
+    "id": "101",
+    "name": "Incline Bench Dumbbell Lateral Raise",
+    "bodyPart": "shoulders",
+    "equipment": "dumbbell",
+    "target": "Lateral Deltoid",
+    "secondaryMuscles": [
+      "rear delts"
+    ],
+    "instructions": [
+      "Lie chest down on an incline bench holding dumbbells.",
+      "Raise the dumbbells out to the sides until shoulder height.",
+      "Slowly lower to starting position."
+    ]
+  },
+  {
+    "id": "102",
+    "name": "Arsenal Strength Overhead Tricep",
+    "bodyPart": "upper arms",
+    "equipment": "leverage machine",
+    "target": "Triceps Long Head",
+    "secondaryMuscles": [],
+    "instructions": [
+      "Sit in the Arsenal Strength overhead tricep machine.",
+      "Extend your arms overhead until fully extended.",
+      "Slowly lower to starting position."
+    ]
+  },
+  {
+    "id": "103",
+    "name": "Matrix Diverging Seated Row Single Arm",
+    "bodyPart": "back",
+    "equipment": "leverage machine",
+    "target": "Lats",
+    "secondaryMuscles": [
+      "biceps",
+      "rear delts"
+    ],
+    "instructions": [
+      "Sit at the Matrix diverging seated row machine.",
+      "Pull one handle at a time toward your hip for a lat bias.",
+      "Slowly return to starting position."
+    ]
+  },
+  {
+    "id": "104",
+    "name": "Single Arm Cable Lateral Raise",
+    "bodyPart": "shoulders",
+    "equipment": "cable",
+    "target": "Lateral Deltoid",
+    "secondaryMuscles": [
+      "upper traps"
+    ],
+    "instructions": [
+      "Stand sideways to a low cable machine with a single handle.",
+      "Raise the handle out to the side until shoulder height.",
+      "Slowly lower to starting position."
+    ]
+  },
+  {
+    "id": "105",
+    "name": "Hanging Straight Leg Raise",
+    "bodyPart": "waist",
+    "equipment": "body weight",
+    "target": "Lower Abs",
+    "secondaryMuscles": [
+      "hip flexors",
+      "core"
+    ],
+    "instructions": [
+      "Hang from a pull up bar with arms fully extended.",
+      "Keeping legs straight, raise them until parallel to the floor.",
+      "Slowly lower back to starting position."
+    ]
+  },
+  {
+    "id": "106",
+    "name": "Machine Shoulder Press Matrix",
+    "bodyPart": "shoulders",
+    "equipment": "leverage machine",
+    "target": "Anterior Deltoid",
+    "secondaryMuscles": [
+      "triceps",
+      "upper traps"
+    ],
+    "instructions": [
+      "Sit in the Matrix shoulder press machine.",
+      "Press the handles overhead until arms are fully extended.",
+      "Slowly lower to starting position."
+    ]
+  },
+  {
+    "id": "107",
+    "name": "Mag Close Grip Seated Cable Row",
+    "bodyPart": "back",
+    "equipment": "cable",
+    "target": "Upper Back",
+    "secondaryMuscles": [
+      "biceps",
+      "lats"
+    ],
+    "instructions": [
+      "Sit at the cable row machine with a mag close grip attachment.",
+      "Pull the handle toward your lower chest keeping elbows tight to your sides.",
+      "Slowly return to starting position."
+    ]
+  },
+  {
+    "id": "108",
+    "name": "Inclined Single Arm Pec Deck",
+    "bodyPart": "chest",
+    "equipment": "leverage machine",
+    "target": "Upper Pectoralis",
+    "secondaryMuscles": [
+      "front delts"
+    ],
+    "instructions": [
+      "Sit in the pec deck machine set to an incline angle.",
+      "Bring one handle across your body squeezing your upper chest.",
+      "Slowly return to starting position."
+    ]
+  },
+  {
+    "id": "109",
+    "name": "Weighted Dip",
+    "bodyPart": "upper arms",
+    "equipment": "body weight",
+    "target": "Triceps",
+    "secondaryMuscles": [
+      "chest",
+      "front delts"
+    ],
+    "instructions": [
+      "Attach a weight belt or hold a dumbbell between your legs.",
+      "Grip parallel bars and lower yourself by bending at the elbows.",
+      "Push back up to starting position."
+    ]
+  },
+  {
+    "id": "110",
+    "name": "Weighted Pull Up",
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "target": "Lats",
+    "secondaryMuscles": [
+      "biceps",
+      "rear delts"
+    ],
+    "instructions": [
+      "Attach a weight belt or hold a dumbbell between your legs.",
+      "Pull yourself up until your chin is above the bar.",
+      "Slowly lower to starting position."
+    ]
+  },
+  {
+    "id": "111",
+    "name": "Arsenal Strength Lateral Raise",
+    "bodyPart": "shoulders",
+    "equipment": "leverage machine",
+    "target": "Lateral Deltoid",
+    "secondaryMuscles": [
+      "upper traps"
+    ],
+    "instructions": [
+      "Sit in the Arsenal Strength lateral raise machine.",
+      "Raise your arms out to the sides until shoulder height.",
+      "Slowly lower to starting position."
+    ]
+  },
+  {
+    "id": "112",
+    "name": "Arsenal Strength Lateral Raise Single Arm",
+    "bodyPart": "shoulders",
+    "equipment": "leverage machine",
+    "target": "Lateral Deltoid",
+    "secondaryMuscles": [
+      "upper traps"
+    ],
+    "instructions": [
+      "Sit in the Arsenal Strength lateral raise machine.",
+      "Raise one arm at a time out to the side until shoulder height.",
+      "Slowly lower to starting position."
+    ]
+  },
+  {
+    "id": "113",
+    "name": "Seated One Arm Row",
+    "bodyPart": "back",
+    "equipment": "cable",
+    "target": "Lats",
+    "secondaryMuscles": [
+      "biceps",
+      "rear delts"
+    ],
+    "instructions": [
+      "Sit at a cable row machine with a single handle.",
+      "Pull the handle toward your hip with one arm.",
+      "Slowly return to starting position."
+    ]
+  },
+  {
+    "id": "114",
+    "name": "Single Arm Cable Tricep Extension",
+    "bodyPart": "upper arms",
+    "equipment": "cable",
+    "target": "Triceps Lateral Head",
+    "secondaryMuscles": [],
+    "instructions": [
+      "Attach a single handle to a high cable machine.",
+      "Push the handle down with one arm until fully extended.",
+      "Slowly return to starting position."
+    ]
+  },
+  {
+    "id": "115",
+    "name": "Cable Straight Bar Reverse Curl",
+    "bodyPart": "lower arms",
+    "equipment": "cable",
+    "target": "Forearms",
+    "secondaryMuscles": [
+      "brachialis",
+      "brachioradialis"
+    ],
+    "instructions": [
+      "Attach a straight bar to a low cable machine.",
+      "Curl the bar up with an overhand grip.",
+      "Slowly lower to starting position."
+    ]
+  },
+  {
+    "id": "116",
+    "name": "Matrix Dependent Curl",
+    "bodyPart": "upper arms",
+    "equipment": "leverage machine",
+    "target": "Biceps",
+    "secondaryMuscles": [
+      "brachialis"
+    ],
+    "instructions": [
+      "Sit at the Matrix dependent curl machine.",
+      "Curl the handles up to shoulder height.",
+      "Slowly lower to starting position."
+    ]
+  },
+  {
+    "id": "117",
+    "name": "Hammer Strength Seated Dip",
+    "bodyPart": "upper arms",
+    "equipment": "leverage machine",
+    "target": "Triceps",
+    "secondaryMuscles": [
+      "chest",
+      "front delts"
+    ],
+    "instructions": [
+      "Sit in the Hammer Strength seated dip machine.",
+      "Press the handles down until arms are fully extended.",
+      "Slowly return to starting position."
+    ]
+  },
+  {
+    "id": "118",
+    "name": "Hammer Strength Iso Lateral Low Row",
+    "bodyPart": "back",
+    "equipment": "leverage machine",
+    "target": "Lats",
+    "secondaryMuscles": [
+      "biceps",
+      "rear delts"
+    ],
+    "instructions": [
+      "Sit at the Hammer Strength iso lateral low row machine.",
+      "Pull one or both handles toward your hips.",
+      "Slowly return to starting position."
+    ]
+  },
+  {
+    "id": "119",
+    "name": "Smith Machine Incline Bench Press",
+    "bodyPart": "chest",
+    "equipment": "smith machine",
+    "target": "Upper Pectoralis",
+    "secondaryMuscles": [
+      "triceps",
+      "front delts"
+    ],
+    "instructions": [
+      "Set an incline bench inside the smith machine.",
+      "Lower the bar to your upper chest.",
+      "Press back up to starting position."
+    ]
+  },
+  {
+    "id": "120",
+    "name": "Tricep Dip Lower Chest Focused",
+    "bodyPart": "upper arms",
+    "equipment": "body weight",
+    "target": "Triceps",
+    "secondaryMuscles": [
+      "lower chest",
+      "front delts"
+    ],
+    "instructions": [
+      "Grip parallel bars and lean slightly forward.",
+      "Lower yourself by bending at the elbows.",
+      "Push back up focusing on the lower chest and triceps."
+    ]
+  },
+  {
+    "id": "121",
+    "name": "Matrix Abdominal Crunch",
+    "bodyPart": "waist",
+    "equipment": "leverage machine",
+    "target": "Rectus Abdominis",
+    "secondaryMuscles": [
+      "obliques"
+    ],
+    "instructions": [
+      "Sit in the Matrix ab crunch machine.",
+      "Crunch forward bringing your chest toward your knees.",
+      "Slowly return to starting position."
+    ]
+  },
+  {
+    "id": "122",
+    "name": "Matrix Prone Leg Curl",
+    "bodyPart": "upper legs",
+    "equipment": "leverage machine",
+    "target": "Hamstrings",
+    "secondaryMuscles": [
+      "glutes"
+    ],
+    "instructions": [
+      "Lie face down on the Matrix prone leg curl machine.",
+      "Curl your legs up toward your glutes.",
+      "Slowly lower to starting position."
+    ]
+  },
+  {
+    "id": "123",
+    "name": "Matrix Leg Press",
+    "bodyPart": "upper legs",
+    "equipment": "leverage machine",
+    "target": "Quadriceps",
+    "secondaryMuscles": [
+      "glutes",
+      "hamstrings"
+    ],
+    "instructions": [
+      "Sit in the Matrix leg press machine.",
+      "Push the platform away until legs are nearly extended.",
+      "Slowly lower back to starting position."
+    ]
+  },
+  {
+    "id": "124",
+    "name": "Freemotion Cross Body Cable Tricep Extension",
+    "bodyPart": "upper arms",
+    "equipment": "cable",
+    "target": "Triceps Lateral Head",
+    "secondaryMuscles": [],
+    "instructions": [
+      "Set a single handle on a high cable machine.",
+      "Pull the handle across your body extending your arm diagonally.",
+      "Slowly return to starting position."
+    ]
+  },
+  {
+    "id": "125",
+    "name": "Hammer Strength Incline Press",
+    "bodyPart": "chest",
+    "equipment": "leverage machine",
+    "target": "Upper Pectoralis",
+    "secondaryMuscles": [
+      "triceps",
+      "front delts"
+    ],
+    "instructions": [
+      "Sit in the Hammer Strength incline press machine.",
+      "Press the handles forward and upward until arms are extended.",
+      "Slowly return to starting position."
+    ]
+  },
+  {
+    "id": "126",
+    "name": "Matrix Leg Extension",
+    "bodyPart": "upper legs",
+    "equipment": "leverage machine",
+    "target": "Quadriceps",
+    "secondaryMuscles": [],
+    "instructions": [
+      "Sit in the Matrix leg extension machine with the pad on your shins.",
+      "Extend your legs until fully straight.",
+      "Slowly lower to starting position."
+    ]
+  },
+  {
+    "id": "127",
+    "name": "Matrix Seated Leg Curl",
+    "bodyPart": "upper legs",
+    "equipment": "leverage machine",
+    "target": "Hamstrings",
+    "secondaryMuscles": [],
+    "instructions": [
+      "Sit in the Matrix seated leg curl machine.",
+      "Curl your legs down under the seat.",
+      "Slowly return to starting position."
+    ]
+  },
+  {
+    "id": "128",
+    "name": "Life Fitness Linear Leg Press",
+    "bodyPart": "upper legs",
+    "equipment": "leverage machine",
+    "target": "Quadriceps",
+    "secondaryMuscles": [
+      "glutes",
+      "hamstrings"
+    ],
+    "instructions": [
+      "Sit in the Life Fitness linear leg press machine.",
+      "Push the platform away until legs are nearly extended.",
+      "Slowly lower back to starting position."
+    ]
+  },
+  {
+    "id": "129",
+    "name": "Hoist Fitness Ab Crunch",
+    "bodyPart": "waist",
+    "equipment": "leverage machine",
+    "target": "Rectus Abdominis",
+    "secondaryMuscles": [
+      "obliques"
+    ],
+    "instructions": [
+      "Sit in the Hoist Fitness ab crunch machine.",
+      "Crunch forward bringing your chest toward your knees.",
+      "Slowly return to starting position."
+    ]
+  },
+  {
+    "id": "130",
+    "name": "Hammer Strength Linear Leg Press",
+    "bodyPart": "upper legs",
+    "equipment": "leverage machine",
+    "target": "Quadriceps",
+    "secondaryMuscles": [
+      "glutes",
+      "hamstrings"
+    ],
+    "instructions": [
+      "Sit in the Hammer Strength linear leg press machine.",
+      "Push the platform away until legs are nearly extended.",
+      "Slowly lower back to starting position."
+    ]
+  },
+  {
+    "id": "131",
+    "name": "Pushdown",
+    "bodyPart": "upper arms",
+    "equipment": "cable",
+    "target": "Triceps Lateral Head",
+    "secondaryMuscles": [
+      "triceps medial head"
+    ],
+    "instructions": [
+      "Stand at a high cable machine with any attachment.",
+      "Push the attachment down until arms are fully extended.",
+      "Slowly return to starting position."
+    ]
+  },
+  {
+    "id": "132",
+    "name": "Machine Fly",
+    "bodyPart": "chest",
+    "equipment": "leverage machine",
+    "target": "Pectoralis Major",
+    "secondaryMuscles": [
+      "front delts"
+    ],
+    "instructions": [
+      "Sit in the chest fly machine.",
+      "Bring the handles together in front of your chest.",
+      "Slowly return to starting position."
+    ]
+  },
+  {
+    "id": "133",
+    "name": "Hoist Ab Crunch",
+    "bodyPart": "waist",
+    "equipment": "leverage machine",
+    "target": "Rectus Abdominis",
+    "secondaryMuscles": [
+      "obliques"
+    ],
+    "instructions": [
+      "Sit in the Hoist ab crunch machine.",
+      "Crunch forward bringing your chest toward your knees.",
+      "Slowly return to starting position."
+    ]
+  },
+  {
+    "id": "134",
+    "name": "Captain's Chair Straight Leg Raise",
+    "bodyPart": "waist",
+    "equipment": "body weight",
+    "target": "Lower Abs",
+    "secondaryMuscles": [
+      "hip flexors"
+    ],
+    "instructions": [
+      "Mount the captain's chair with your forearms on the pads.",
+      "Keeping legs straight raise them until parallel to the floor.",
+      "Slowly lower to starting position."
+    ]
+  },
+  {
+    "id": "135",
+    "name": "Hammer Strength MTS Leg Extension",
+    "bodyPart": "upper legs",
+    "equipment": "leverage machine",
+    "target": "Quadriceps",
+    "secondaryMuscles": [],
+    "instructions": [
+      "Sit in the Hammer Strength MTS leg extension machine.",
+      "Extend your legs until fully straight.",
+      "Slowly lower to starting position."
+    ]
+  },
+  {
+    "id": "136",
+    "name": "Nautilus Impact Seated Leg Curl",
+    "bodyPart": "upper legs",
+    "equipment": "leverage machine",
+    "target": "Hamstrings",
+    "secondaryMuscles": [],
+    "instructions": [
+      "Sit in the Nautilus Impact seated leg curl machine.",
+      "Curl your legs down under the seat.",
+      "Slowly return to starting position."
+    ]
+  },
+  {
+    "id": "137",
+    "name": "Incline Treadmill",
+    "bodyPart": "upper legs",
+    "equipment": "cardio",
+    "target": "Cardiovascular System",
+    "secondaryMuscles": [
+      "calves",
+      "glutes"
+    ],
+    "instructions": [
+      "Set the treadmill to your desired incline and speed.",
+      "Walk or jog for the desired duration.",
+      "Cool down gradually before stopping."
+    ]
+  },
+  {
+    "id": "138",
+    "name": "Hammer Strength Pectoral Fly",
+    "bodyPart": "chest",
+    "equipment": "leverage machine",
+    "target": "Pectoralis Major",
+    "secondaryMuscles": [
+      "front delts"
+    ],
+    "instructions": [
+      "Sit in the Hammer Strength pectoral fly machine.",
+      "Bring the handles together squeezing your chest.",
+      "Slowly return to starting position."
+    ]
+  },
+  {
+    "id": "139",
+    "name": "Wide Grip Seated Row",
+    "bodyPart": "back",
+    "equipment": "cable",
+    "target": "Upper Back",
+    "secondaryMuscles": [
+      "rear delts",
+      "biceps"
+    ],
+    "instructions": [
+      "Sit at the cable row machine with a wide grip attachment.",
+      "Pull the bar toward your upper chest with elbows flared.",
+      "Slowly return to starting position."
+    ]
+  },
+  {
+    "id": "140",
+    "name": "Leaning Cable Lateral Raise",
+    "bodyPart": "shoulders",
+    "equipment": "cable",
+    "target": "Lateral Deltoid",
+    "secondaryMuscles": [
+      "upper traps"
+    ],
+    "instructions": [
+      "Hold a cable machine upright and lean away from it.",
+      "Raise the handle out to the side until shoulder height.",
+      "Slowly lower to starting position."
+    ]
+  },
+  {
+    "id": "141",
+    "name": "Incline Bench Chest Supported Lateral Raise",
+    "bodyPart": "shoulders",
+    "equipment": "dumbbell",
+    "target": "Lateral Deltoid",
+    "secondaryMuscles": [
+      "rear delts"
+    ],
+    "instructions": [
+      "Lie chest down on an incline bench.",
+      "Raise the dumbbells out to the sides until shoulder height.",
+      "Slowly lower to starting position."
+    ]
+  },
+  {
+    "id": "142",
+    "name": "Reverse Cable Grip Curl",
+    "bodyPart": "lower arms",
+    "equipment": "cable",
+    "target": "Forearms",
+    "secondaryMuscles": [
+      "brachioradialis"
+    ],
+    "instructions": [
+      "Attach a straight bar to a low cable machine.",
+      "Curl with an overhand grip keeping elbows at your sides.",
+      "Slowly lower to starting position."
+    ]
+  },
+  {
+    "id": "143",
+    "name": "Cable Lat Pulldown Single Arm",
+    "bodyPart": "back",
+    "equipment": "cable",
+    "target": "Lats",
+    "secondaryMuscles": [
+      "biceps"
+    ],
+    "instructions": [
+      "Attach a single handle to a high cable machine.",
+      "Pull the handle down toward your shoulder with one arm.",
+      "Slowly return to starting position."
+    ]
+  },
+  {
+    "id": "144",
+    "name": "Life Fitness Cable Shoulder Press",
+    "bodyPart": "shoulders",
+    "equipment": "cable",
+    "target": "Anterior Deltoid",
+    "secondaryMuscles": [
+      "triceps",
+      "upper traps"
+    ],
+    "instructions": [
+      "Set cables at shoulder height on the Life Fitness machine.",
+      "Press both handles overhead until arms are fully extended.",
+      "Slowly lower to starting position."
+    ]
+  },
+  {
+    "id": "145",
+    "name": "Straight Arm Cable Bar Pulldown",
+    "bodyPart": "back",
+    "equipment": "cable",
+    "target": "Lats",
+    "secondaryMuscles": [
+      "triceps",
+      "core"
+    ],
+    "instructions": [
+      "Stand at a high cable machine with a straight bar.",
+      "With arms slightly bent pull the bar down to your thighs.",
+      "Slowly return to starting position."
+    ]
+  },
+  {
+    "id": "146",
+    "name": "Hammer Strength Iso Lateral Row",
+    "bodyPart": "back",
+    "equipment": "leverage machine",
+    "target": "Upper Back",
+    "secondaryMuscles": [
+      "biceps",
+      "rear delts"
+    ],
+    "instructions": [
+      "Sit at the Hammer Strength iso lateral row machine.",
+      "Pull one or both handles toward your chest.",
+      "Slowly return to starting position."
+    ]
+  },
+  {
+    "id": "147",
+    "name": "Preacher Curl",
+    "bodyPart": "upper arms",
+    "equipment": "barbell",
+    "target": "Biceps Short Head",
+    "secondaryMuscles": [
+      "brachialis"
+    ],
+    "instructions": [
+      "Sit at the preacher curl bench with arms on the pad.",
+      "Curl the bar up to shoulder height.",
+      "Slowly lower to starting position."
+    ]
+  },
+  {
+    "id": "148",
+    "name": "Straight Bar Curl",
+    "bodyPart": "upper arms",
+    "equipment": "barbell",
+    "target": "Biceps",
+    "secondaryMuscles": [
+      "brachialis"
+    ],
+    "instructions": [
+      "Stand holding a straight bar with an underhand grip.",
+      "Curl the bar up to shoulder height.",
+      "Slowly lower to starting position."
+    ]
+  },
+  {
+    "id": "149",
+    "name": "Life Fitness Cable Chest Fly",
+    "bodyPart": "chest",
+    "equipment": "cable",
+    "target": "Pectoralis Major",
+    "secondaryMuscles": [
+      "front delts"
+    ],
+    "instructions": [
+      "Set cables at shoulder height on the Life Fitness machine.",
+      "Bring both handles together in front of your chest.",
+      "Slowly return to starting position."
+    ]
+  },
+  {
+    "id": "150",
+    "name": "High Row Life Fitness",
+    "bodyPart": "back",
+    "equipment": "leverage machine",
+    "target": "Upper Back",
+    "secondaryMuscles": [
+      "rear delts",
+      "biceps"
+    ],
+    "instructions": [
+      "Sit at the Life Fitness high row machine.",
+      "Pull the handles toward your chest from a high angle.",
+      "Slowly return to starting position."
+    ]
+  },
+  {
+    "id": "151",
+    "name": "Straight Bar Pushdown",
+    "bodyPart": "upper arms",
+    "equipment": "cable",
+    "target": "Triceps Lateral Head",
+    "secondaryMuscles": [
+      "triceps medial head"
+    ],
+    "instructions": [
+      "Attach a straight bar to a high cable machine.",
+      "Push the bar down until arms are fully extended.",
+      "Slowly return to starting position."
+    ]
+  },
+  {
+    "id": "152",
+    "name": "Single Arm Overhead Dumbbell Tricep Extension",
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "target": "Triceps Long Head",
+    "secondaryMuscles": [],
+    "instructions": [
+      "Sit on a bench holding one dumbbell overhead with one hand.",
+      "Lower the dumbbell behind your head by bending at the elbow.",
+      "Press back up to starting position."
+    ]
+  },
+  {
+    "id": "153",
+    "name": "Seated Dumbbell Lateral Raise",
+    "bodyPart": "shoulders",
+    "equipment": "dumbbell",
+    "target": "Lateral Deltoid",
+    "secondaryMuscles": [
+      "upper traps"
+    ],
+    "instructions": [
+      "Sit on a bench holding dumbbells at your sides.",
+      "Raise the dumbbells out to the sides until shoulder height.",
+      "Slowly lower to starting position."
+    ]
+  },
+  {
+    "id": "154",
+    "name": "Dumbbell Across Body Curl",
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "target": "Brachialis",
+    "secondaryMuscles": [
+      "biceps"
+    ],
+    "instructions": [
+      "Stand holding dumbbells at your sides.",
+      "Curl one dumbbell across your body toward the opposite shoulder.",
+      "Slowly lower and repeat on the other side."
+    ]
+  },
+  {
+    "id": "155",
+    "name": "Ez Bar Skull Crusher",
+    "bodyPart": "upper arms",
+    "equipment": "barbell",
+    "target": "Triceps Long Head",
+    "secondaryMuscles": [],
+    "instructions": [
+      "Lie on a bench holding an EZ bar above your chest.",
+      "Lower the bar toward your forehead by bending at the elbows.",
+      "Extend back to starting position."
+    ]
+  },
+  {
+    "id": "156",
+    "name": "Freemotion Cable Lateral Raise",
+    "bodyPart": "shoulders",
+    "equipment": "cable",
+    "target": "Lateral Deltoid",
+    "secondaryMuscles": [
+      "upper traps"
+    ],
+    "instructions": [
+      "Stand at a Freemotion cable machine with a single handle.",
+      "Raise the handle out to the side until shoulder height.",
+      "Slowly lower to starting position."
+    ]
+  },
+  {
+    "id": "157",
+    "name": "Incline Machine Chest Press",
+    "bodyPart": "chest",
+    "equipment": "leverage machine",
+    "target": "Upper Pectoralis",
+    "secondaryMuscles": [
+      "triceps",
+      "front delts"
+    ],
+    "instructions": [
+      "Sit in the incline chest press machine.",
+      "Press the handles forward and upward until arms are extended.",
+      "Slowly return to starting position."
+    ]
+  },
+  {
+    "id": "158",
+    "name": "Freemotion Cable Fly",
+    "bodyPart": "chest",
+    "equipment": "cable",
+    "target": "Pectoralis Major",
+    "secondaryMuscles": [
+      "front delts"
+    ],
+    "instructions": [
+      "Set Freemotion cables at shoulder height.",
+      "Bring both handles together in front of your chest.",
+      "Slowly return to starting position."
+    ]
+  },
+  {
+    "id": "159",
+    "name": "Nautilus Nitro Evo Lat Pulldown",
+    "bodyPart": "back",
+    "equipment": "leverage machine",
+    "target": "Lats",
+    "secondaryMuscles": [
+      "biceps",
+      "rear delts"
+    ],
+    "instructions": [
+      "Sit at the Nautilus Nitro Evo lat pulldown machine.",
+      "Pull the handles down toward your shoulders.",
+      "Slowly return to starting position."
+    ]
+  },
+  {
+    "id": "160",
+    "name": "Elbow Supported Dumbbell Hammer Curl",
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "target": "Brachialis",
+    "secondaryMuscles": [
+      "biceps"
+    ],
+    "instructions": [
+      "Sit on a bench and brace your elbow against your inner thigh.",
+      "Curl the dumbbell up with a neutral grip.",
+      "Slowly lower to starting position."
+    ]
+  },
+  {
+    "id": "161",
+    "name": "Elbow Supported Dumbbell Bicep Curl",
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "target": "Biceps Short Head",
+    "secondaryMuscles": [
+      "brachialis"
+    ],
+    "instructions": [
+      "Sit on a bench and brace your elbow against your inner thigh.",
+      "Curl the dumbbell up to shoulder height.",
+      "Slowly lower to starting position."
+    ]
+  },
+  {
+    "id": "162",
+    "name": "Seated Cable Row Upper Back",
+    "bodyPart": "back",
+    "equipment": "cable",
+    "target": "Upper Back",
+    "secondaryMuscles": [
+      "rear delts",
+      "biceps"
+    ],
+    "instructions": [
+      "Sit at the cable row machine with a wide grip.",
+      "Pull the handle toward your upper chest.",
+      "Slowly return to starting position."
+    ]
+  },
+  {
+    "id": "163",
+    "name": "Front Pulldown Machine",
+    "bodyPart": "back",
+    "equipment": "leverage machine",
+    "target": "Lats",
+    "secondaryMuscles": [
+      "biceps"
+    ],
+    "instructions": [
+      "Sit at the front pulldown machine.",
+      "Pull the handles down toward your shoulders.",
+      "Slowly return to starting position."
+    ]
+  },
+  {
+    "id": "164",
+    "name": "Life Fitness Chest Press",
+    "bodyPart": "chest",
+    "equipment": "leverage machine",
+    "target": "Pectoralis Major",
+    "secondaryMuscles": [
+      "triceps",
+      "front delts"
+    ],
+    "instructions": [
+      "Sit in the Life Fitness chest press machine.",
+      "Press the handles forward until arms are extended.",
+      "Slowly return to starting position."
+    ]
+  },
+  {
+    "id": "165",
+    "name": "Katana Extension Single Arm",
+    "bodyPart": "upper arms",
+    "equipment": "cable",
+    "target": "Triceps Lateral Head",
+    "secondaryMuscles": [],
+    "instructions": [
+      "Attach a single handle to a high cable machine.",
+      "With one arm extend diagonally across your body in a katana motion.",
+      "Slowly return to starting position."
+    ]
+  },
+  {
+    "id": "166",
+    "name": "Nitro Evo Compound Row Upper Back",
+    "bodyPart": "back",
+    "equipment": "leverage machine",
+    "target": "Upper Back",
+    "secondaryMuscles": [
+      "biceps",
+      "rear delts"
+    ],
+    "instructions": [
+      "Sit at the Nautilus Nitro Evo compound row machine.",
+      "Pull the handles toward your chest squeezing your upper back.",
+      "Slowly return to starting position."
+    ]
+  },
+  {
+    "id": "167",
+    "name": "Life Fitness Lateral Raise",
+    "bodyPart": "shoulders",
+    "equipment": "leverage machine",
+    "target": "Lateral Deltoid",
+    "secondaryMuscles": [
+      "upper traps"
+    ],
+    "instructions": [
+      "Sit in the Life Fitness lateral raise machine.",
+      "Raise your arms out to the sides until shoulder height.",
+      "Slowly lower to starting position."
+    ]
+  },
+  {
+    "id": "168",
+    "name": "Dip Bar Leg Raises",
+    "bodyPart": "waist",
+    "equipment": "body weight",
+    "target": "Lower Abs",
+    "secondaryMuscles": [
+      "hip flexors"
+    ],
+    "instructions": [
+      "Mount the dip bars supporting your weight on your forearms.",
+      "Raise your legs until parallel to the floor.",
+      "Slowly lower to starting position."
+    ]
+  },
+  {
+    "id": "169",
+    "name": "Freemotion Abdominal",
+    "bodyPart": "waist",
+    "equipment": "leverage machine",
+    "target": "Rectus Abdominis",
+    "secondaryMuscles": [
+      "obliques"
+    ],
+    "instructions": [
+      "Sit in the Freemotion abdominal machine.",
+      "Crunch forward bringing your chest toward your knees.",
+      "Slowly return to starting position."
+    ]
+  },
+  {
+    "id": "170",
+    "name": "Overhead Tricep Rope Extension",
+    "bodyPart": "upper arms",
+    "equipment": "cable",
+    "target": "Triceps Long Head",
+    "secondaryMuscles": [],
+    "instructions": [
+      "Attach a rope to a low cable machine and face away.",
+      "Extend both arms overhead until fully extended.",
+      "Slowly lower to starting position."
+    ]
+  },
+  {
+    "id": "171",
+    "name": "Rope Pushdown",
+    "bodyPart": "upper arms",
+    "equipment": "cable",
+    "target": "Triceps Lateral Head",
+    "secondaryMuscles": [
+      "triceps medial head"
+    ],
+    "instructions": [
+      "Attach a rope to a high cable machine.",
+      "Push the rope down and flare the ends out at the bottom.",
+      "Slowly return to starting position."
+    ]
+  },
+  {
+    "id": "172",
+    "name": "Hammer Strength Iso Lateral Row",
+    "bodyPart": "back",
+    "equipment": "leverage machine",
+    "target": "Lats",
+    "secondaryMuscles": [
+      "biceps",
+      "rear delts"
+    ],
+    "instructions": [
+      "Sit at the Hammer Strength iso lateral row machine.",
+      "Pull one handle at a time toward your hip.",
+      "Slowly return to starting position."
+    ]
+  },
+  {
+    "id": "173",
+    "name": "Cable Curl",
+    "bodyPart": "upper arms",
+    "equipment": "cable",
+    "target": "Biceps",
+    "secondaryMuscles": [
+      "brachialis"
+    ],
+    "instructions": [
+      "Attach a bar or rope to a low cable machine.",
+      "Curl the attachment up to shoulder height.",
+      "Slowly lower to starting position."
+    ]
+  },
+  {
+    "id": "174",
+    "name": "Dumbbell Curl",
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "target": "Biceps",
+    "secondaryMuscles": [
+      "brachialis"
+    ],
+    "instructions": [
+      "Stand holding dumbbells at your sides.",
+      "Curl the dumbbells up to shoulder height.",
+      "Slowly lower to starting position."
+    ]
+  }
+]
