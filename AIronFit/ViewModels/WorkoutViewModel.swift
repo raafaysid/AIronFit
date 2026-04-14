@@ -41,7 +41,8 @@ class WorkoutViewModel: ObservableObject {
     func logSet(weight: Double, reps: Double) {
         guard currentExercise != nil else { return }
         
-        let newSet = WorkoutSet(weight: weight, reps: reps)
+        let exerciseId = currentWorkout.exercises[currentExerciseIndex].id
+        let newSet = WorkoutSet(exerciseId: exerciseId, weight: weight, reps: reps)
         currentWorkout.exercises[currentExerciseIndex].sets.append(newSet)
         
         startRestTimer()
@@ -57,6 +58,14 @@ class WorkoutViewModel: ObservableObject {
     func endWorkout() {
         currentWorkout.duration = Date().timeIntervalSince(currentWorkout.date)
         stopRestTimer()
+        
+        do {
+            try DatabaseService.shared.saveWorkout(currentWorkout)
+            print("[success] Workout saved successfully")
+        } catch {
+            print("[error] Failed to save workout: \(error)")
+        }
+        
         workoutStarted = false
     }
     

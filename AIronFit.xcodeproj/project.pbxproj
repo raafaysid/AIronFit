@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		7D7EA09A2F84ADD000323A8C /* GRDB in Frameworks */ = {isa = PBXBuildFile; productRef = 7D7EA0992F84ADD000323A8C /* GRDB */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		7D4821002F6BC0D20007F6FF /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -65,6 +69,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7D7EA09A2F84ADD000323A8C /* GRDB in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -125,6 +130,7 @@
 			);
 			name = AIronFit;
 			packageProductDependencies = (
+				7D7EA0992F84ADD000323A8C /* GRDB */,
 			);
 			productName = AIronFit;
 			productReference = 7D4820F22F6BC0CF0007F6FF /* AIronFit.app */;
@@ -208,6 +214,9 @@
 			);
 			mainGroup = 7D4820E92F6BC0CF0007F6FF;
 			minimizedProjectReferenceProxies = 1;
+			packageReferences = (
+				7D7EA0982F84ADCF00323A8C /* XCRemoteSwiftPackageReference "GRDB.swift" */,
+			);
 			preferredProjectObjectVersion = 77;
 			productRefGroup = 7D4820F32F6BC0CF0007F6FF /* Products */;
 			projectDirPath = "";
@@ -565,6 +574,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		7D7EA0982F84ADCF00323A8C /* XCRemoteSwiftPackageReference "GRDB.swift" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/groue/GRDB.swift.git";
+			requirement = {
+				branch = master;
+				kind = branch;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		7D7EA0992F84ADD000323A8C /* GRDB */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 7D7EA0982F84ADCF00323A8C /* XCRemoteSwiftPackageReference "GRDB.swift" */;
+			productName = GRDB;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 7D4820EA2F6BC0CF0007F6FF /* Project object */;
 }

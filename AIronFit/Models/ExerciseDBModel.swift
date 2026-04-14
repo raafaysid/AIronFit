@@ -17,8 +17,9 @@ struct ExerciseDBExercise: Codable, Identifiable {
     let instructions: [String]
     let gifUrl: String?
     
-    func toExercise() -> Exercise {
+    func toExercise(workoutId: UUID = UUID()) -> Exercise {
         Exercise(
+            workoutId: workoutId,
             name: name.capitalized,
             muscleGroup: bodyPart.capitalized,
             targetMuscle: target.capitalized,

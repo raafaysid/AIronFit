@@ -79,14 +79,15 @@ class ExercisePickerViewModel: ObservableObject {
             let apiParts = apiBodyParts(for: displayName)
             let partsToFetch = apiParts.isEmpty ? [displayName.lowercased()] : apiParts
             
-            var allResults: [ExerciseDBExercise] = []
+            var fetchedResults: [ExerciseDBExercise] = []
             for part in partsToFetch {
                 let results = try await service.fetchExercises(bodyPart: part)
-                allResults.append(contentsOf: results)
+                fetchedResults += results
             }
             
+            let finalResults = fetchedResults
             await MainActor.run {
-                self.exercises = allResults
+                self.exercises = finalResults
                 print("[success] Exercises Set: \(self.exercises.count)")
                 self.isLoading = false
             }
