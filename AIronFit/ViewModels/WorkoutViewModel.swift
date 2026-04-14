@@ -51,8 +51,18 @@ class WorkoutViewModel: ObservableObject {
     func nextExercise() {
         if currentExerciseIndex < currentWorkout.exercises.count - 1 {
             currentExerciseIndex += 1
-            stopRestTimer()
+            
         }
+    }
+    func previousExercise() {
+        if currentExerciseIndex > 0 {
+            currentExerciseIndex -= 1
+        }
+    }
+
+    func jumpToExercise(index: Int) {
+        guard index >= 0 && index < currentWorkout.exercises.count else { return }
+        currentExerciseIndex = index
     }
     
     func endWorkout() {
