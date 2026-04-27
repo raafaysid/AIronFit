@@ -11,8 +11,14 @@ struct ActiveWorkoutView: View {
     @StateObject var viewModel: WorkoutViewModel
     @State private var weightInput: String = ""
     @State private var repsInput: String = ""
-    @State private var showExercisePicker = false
-    @State private var showExerciseJumpList = false
+    enum ActiveSheet: Identifiable {
+        case exercisePicker
+        case jumpList
+        case workoutComplete
+        
+        var id: Int { hashValue }
+    }
+    @State private var activeSheet: ActiveSheet? = nil
     
     var body: some View {
         ZStack {
@@ -42,14 +48,20 @@ struct ActiveWorkoutView: View {
                 addExerciseButton
             }
         }
-        .sheet(isPresented: $showExercisePicker) {
-            ExercisePickerView { selectedExercise in
-                viewModel.addExercise(selectedExercise)
-                showExercisePicker = false
+        .sheet(item: $activeSheet) { sheet in
+            switch sheet {
+            case .exercisePicker:
+                ExercisePickerView { selectedExercise in
+                    viewModel.addExercise(selectedExercise)
+                    activeSheet = nil
+                }
+            case .jumpList:
+                exerciseJumpListSheet
+            case .workoutComplete:
+                WorkoutCompleteView(workout: viewModel.currentWorkout) {
+                    activeSheet = nil
+                }
             }
-        }
-        .sheet(isPresented: $showExerciseJumpList) {
-            exerciseJumpListSheet
         }
     }
     
@@ -67,6 +79,7 @@ struct ActiveWorkoutView: View {
             Spacer()
             Button("End Workout") {
                 viewModel.endWorkout()
+                activeSheet = .workoutComplete
             }
             .font(.subheadline)
             .foregroundColor(.orange)
@@ -106,6 +119,7 @@ struct ActiveWorkoutView: View {
                     .font(.title2)
                     .fontWeight(.bold)
                     .foregroundColor(.white)
+                    .fixedSize(horizontal: false, vertical: true)
                 Text(exercise.targetMuscle)
                     .font(.caption)
                     .foregroundColor(.gray)
@@ -289,7 +303,7 @@ struct ActiveWorkoutView: View {
                         }
                         .simultaneousGesture(
                             LongPressGesture(minimumDuration: 0.5).onEnded { _ in
-                                showExerciseJumpList = true
+                                activeSheet = .jumpList
                             }
                         )
                     }
@@ -322,7 +336,7 @@ struct ActiveWorkoutView: View {
                         }
                         .simultaneousGesture(
                             LongPressGesture(minimumDuration: 0.5).onEnded { _ in
-                                showExerciseJumpList = true
+                                activeSheet = .jumpList
                             }
                         )
                     }
@@ -336,7 +350,7 @@ struct ActiveWorkoutView: View {
     //add Exercise Button
     private var addExerciseButton: some View {
         Button {
-            showExercisePicker = true
+            activeSheet = .exercisePicker
         } label: {
             HStack {
                 Image(systemName: "plus")
@@ -366,7 +380,7 @@ struct ActiveWorkoutView: View {
                         .foregroundColor(.white)
                     Spacer()
                     Button {
-                        showExerciseJumpList = false
+                        activeSheet = nil
                     } label: {
                         Image(systemName: "xmark.circle.fill")
                             .font(.system(size: 28))
@@ -382,7 +396,7 @@ struct ActiveWorkoutView: View {
                         ForEach(Array(viewModel.currentWorkout.exercises.enumerated()), id: \.element.id) { index, exercise in
                             Button {
                                 viewModel.jumpToExercise(index: index)
-                                showExerciseJumpList = false
+                                activeSheet = nil
                             } label: {
                                 HStack(spacing: 16) {
                                     Text("\(index + 1)")

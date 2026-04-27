@@ -1,0 +1,12 @@
+# Xcode
+*.xcodeproj/xcuserdata/
+DerivedData/
+*.moved-aside
+*.pbxuser
+*.perspectivev3
+
+# Backend
+backend/.env
+backend/venv/
+backend/__pycache__/
+backend/.pytest_cache/
